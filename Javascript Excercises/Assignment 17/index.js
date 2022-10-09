@@ -1,0 +1,16 @@
+var cities = ["Istumbul", "Paris", "California", "Dubai", "Ankara"];
+var sorted = [...cities].sort();
+var reversed = [...cities].reverse();
+console.log(cities);
+console.log(sorted);
+console.log(cities);
+console.log(reversed);
+console.log(cities);
+console.log(cities.reverse());
+console.log(cities);
+console.log(cities.reverse());
+console.log(cities);
+console.log(cities.sort());
+console.log(cities);
+console.log(cities.reverse());
+console.log(cities);
