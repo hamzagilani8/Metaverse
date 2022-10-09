@@ -1,25 +1,25 @@
-[Assignment 1](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%201)
+## Assignment 1 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%201)
 Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric,
 would you like to learn some Python today?”
 
-[Assignment 2](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%202)
+## Assignment 2 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%202)
 Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
 
-[Assignment 3](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%203)
+## Assignment 3 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%203)
 Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks:
 
 Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 
-[Assignment 4](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%204)
+## Assignment 4 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%204)
 Famous Quote 2: Repeat Exercise 4, but this time store the famous person’s name in a variable called famous_person. Then compose your message and store it in a new variable called message. Print your message.
 
-## Assignment 5(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%205)
+## Assignment 5 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%205)
 Stripping Names: Store a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, "\t" and "\n", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces.
-
-## Assignment 6(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%206)
+ 
+## Assignment 6 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%206)
 Number Eight: Write addition, subtraction, multiplication, and division operations that each result in the number 8. Be sure to enclose your operations in print statements to see the results. 
 
-## Assignment 7(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%207)
+## Assignment 7 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%207)
 You should create four lines that look like this:
 
 _____________________________________________
@@ -30,30 +30,30 @@ _____________________________________________
 
 Your output should simply be four lines with the number 8 appearing once on each line.
 
-## Assignment 8(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%208)
+## Assignment 8 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%208)
 Favorite Number: Store your favorite number in a variable. Then, using that variable, create a message that reveals your favorite number. Print that message.
 
-## Assignment 9(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%209)
+## Assignment 9 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%209)
 Adding Comments: Choose two of the programs you’ve written, and add at least one comment to each. If you don’t have anything specific to write
 because your programs are too simple at this point, just add your name and the current date at the top of each program file. Then write one sentence
 describing what the program does.
 
-## Assignment 10(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2010)
+## Assignment 10 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2010)
 Names: Store the names of a few of your friends in a array called names. Print each person’s name by accessing each element in the list, one at a time.
 
-## Assignment 11(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2011)
+## Assignment 11 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2011)
 Greetings: Start with the array you used in Exercise 10, but instead of just printing each person’s name, print a message to them. The text of each message
 should be the same, but each message should be personalized with the person’s name.
 
-## Assignment 12(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2012)
+## Assignment 12 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2012)
 Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list
 to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
 
-## Assignment 13(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2013)
+## Assignment 13 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2013)
 Guest List: If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to
 invite to dinner. Then use your list to print a message to each person, inviting them to dinner.
 
-## Assignment 14(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2014)
+## Assignment 14 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2014)
 Changing Guest List: You just heard that one of your guests can’t make the
 dinner, so you need to send out a new set of invitations. You’ll have to think of
 someone else to invite.
@@ -67,7 +67,7 @@ the name of the new person you are inviting.
 • Print a second set of invitation messages, one for each person who is still
 in your list.
 
-## Assignment 15 [-->](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2015)
+## Assignment 15 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2015)
 More Guests: You just found a bigger dinner table, so now more space is
 available. Think of three more guests to invite to dinner.
 
@@ -80,7 +80,7 @@ bigger dinner table.
 • Use append() to add one new guest to the end of your list.
 • Print a new set of invitation messages, one for each person in your list.
 
-## Assignment 16
+## Assignment 16 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2016)
 Shrinking Guest List: You just found out that your new dinner table won’t arrive in time for the dinner, and you have space for only two guests.
 
 • Start with your program from Exercise 15. Add a new line that prints a message saying that you can invite only two people for dinner.
@@ -93,7 +93,7 @@ Shrinking Guest List: You just found out that your new dinner table won’t arri
 of your program.
 
 
-## Assignment 17
+## Assignment 17 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2017)
 Seeing the World: Think of at least five places in the world you’d like to visit.
 
 • Store the locations in a array. Make sure the array is not in alphabetical order.
@@ -117,21 +117,21 @@ order has changed.
 
 • Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
 
-## Assignment 18
+## Assignment 18 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2018)
 Dinner Guests: Working with one of the programs from Exercises 13 through 17, print a message indicating the number
 of people you are inviting to dinner.
 
-## Assignment 19
+## Assignment 19 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2019)
 Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
 
-## Assignment 20
+## Assignment 20 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2020)
 They think of something you could store in a JavaScript Object. Write a program that creates Objects containing these items.
 
-## Assignment 21
+## Assignment 21 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2021)
 Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs to produce an index error. Make sure you correct the error before closing the program.
 
 
-## Assignment 22 
+## Assignment 22 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2022)
 Conditional Tests: Write a series of conditional tests. Print a statement
 describing each test and your prediction for the results of each test. Your code
 should look something like this:
@@ -146,7 +146,7 @@ console.log(car == 'subaru')
 
 • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
 
-## Assignment 23
+## Assignment 23 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2023)
 More Conditional Tests: You don’t have to limit the number of tests you create to 10. If you want to try more comparisons, write more tests. Have at least one True and one False result for each of the following:
 
 • Tests for equality and inequality with strings
@@ -162,7 +162,7 @@ More Conditional Tests: You don’t have to limit the number of tests you create
 • Test whether an item is not in a array
 
 
-## Assignment 24
+## Assignment 24 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2024)
 Alien Colors #1: Imagine an alien was just shot down in a game. Create a
 variable called alien_color and assign it a value of 'green', 'yellow', or 'red'.
 
@@ -172,7 +172,7 @@ a message that the player just earned 5 points.
 • Write one version of this program that passes the if test and another that
 fails. (The version that fails will have no output.)
 
-## Assignment 25
+## Assignment 25 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2025)
 Alien Colors #2: Choose a color for an alien as you did in Exercise 25, and
 write an if-else chain.
 
@@ -183,7 +183,7 @@ write an if-else chain.
 • Write one version of this program that runs the if block and another that runs the else block.
 
 
-## Assignment 26
+## Assignment 26 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2026)
  
  Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else chain.
 
@@ -195,7 +195,7 @@ write an if-else chain.
 
 • Write three versions of this program, making sure each message is printed for the appropriate color alien.
 
-## Assignment 27
+## Assignment 27 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2027)
 Stages of Life: Write an if-else chain that determines a person’s stage of life. Set a value for the variable age, and then:
 
 • If the person is less than 2 years old, print a message that the person is a baby.
@@ -210,7 +210,7 @@ Stages of Life: Write an if-else chain that determines a person’s stage of lif
 
 • If the person is age 65 or older, print a message that the person is an elder.
 
-## Assignment 28
+## Assignment 28 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2028)
 Favorite Fruit: Make a array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array.
 
 • Make a array of your three favorite fruits and call it favorite_fruits.
@@ -219,7 +219,7 @@ Favorite Fruit: Make a array of your favorite fruits, and then write a series of
 such as You really like bananas!
 
 
-## Assignment 29
+## Assignment 29 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2029)
 Hello Admin: Make a array of five or more usernames, including the name 'admin'. Imagine you are writing code that will print a greeting to each user
 after they log in to a website. Loop through the array, and print a greeting to each user:
 
@@ -227,7 +227,7 @@ after they log in to a website. Loop through the array, and print a greeting to 
 
 • Otherwise, print a generic greeting, such as Hello Eric, thank you for logging in again.
 
-## Assignment 30
+## Assignment 30 [See Here](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2030)
 No Users: Add an if test to Exercise 28 to make sure the list of users is not empty.
 
 • If the list is empty, print the message We need to find some users!
