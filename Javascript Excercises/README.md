@@ -71,7 +71,7 @@ in your list.
 More Guests: You just found a bigger dinner table, so now more space is
 available. Think of three more guests to invite to dinner.
 
-• Start with your program from Exercise 15. Add a print statement to the end of your program informing people that you found a
+• Start with your program from Exercise 14. Add a print statement to the end of your program informing people that you found a
 bigger dinner table.
 
 • Add one new guest to the beginning of your array.
@@ -83,10 +83,9 @@ bigger dinner table.
 ## Assignment 16
 Shrinking Guest List: You just found out that your new dinner table won’t arrive in time for the dinner, and you have space for only two guests.
 
-• Start with your program from Exercise 16. Add a new line that prints a message saying that you can invite only two people for dinner.
+• Start with your program from Exercise 15. Add a new line that prints a message saying that you can invite only two people for dinner.
 
-• Remove guests from your list one at a time until only two names remain in your list. Each time you pop a name from your list, print
-a message to that person letting them know you’re sorry you can’t invite them to dinner.
+• Remove guests from your list one at a time until only two names remain in your list. Each time you pop a name from your list, print a message to that person letting them know you’re sorry you can’t invite them to dinner.
 
 • Print a message to each of the two people still on your list, letting them know they’re still invited.
 
@@ -119,21 +118,21 @@ order has changed.
 • Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
 
 ## Assignment 18
-Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number
+Dinner Guests: Working with one of the programs from Exercises 13 through 17, print a message indicating the number
 of people you are inviting to dinner.
 
 ## Assignment 19
-Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything
-else you’d like. Write a program that creates a list containing these items.
+Think of something you could store in a array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
 
 ## Assignment 20
 They think of something you could store in a JavaScript Object. Write a program that creates Objects containing these items.
 
-22. Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs
-to produce an index error. Make sure you correct the error before closing the program.
+## Assignment 21
+Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs to produce an index error. Make sure you correct the error before closing the program.
 
 
-23. Conditional Tests: Write a series of conditional tests. Print a statement
+## Assignment 22 
+Conditional Tests: Write a series of conditional tests. Print a statement
 describing each test and your prediction for the results of each test. Your code
 should look something like this:
 
@@ -147,7 +146,8 @@ console.log(car == 'subaru')
 
 • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
 
-24. More Conditional Tests: You don’t have to limit the number of tests you create to 10. If you want to try more comparisons, write more tests. Have at least one True and one False result for each of the following:
+## Assignment 23
+More Conditional Tests: You don’t have to limit the number of tests you create to 10. If you want to try more comparisons, write more tests. Have at least one True and one False result for each of the following:
 
 • Tests for equality and inequality with strings
 
@@ -162,7 +162,8 @@ console.log(car == 'subaru')
 • Test whether an item is not in a array
 
 
-25. Alien Colors #1: Imagine an alien was just shot down in a game. Create a
+## Assignment 24
+Alien Colors #1: Imagine an alien was just shot down in a game. Create a
 variable called alien_color and assign it a value of 'green', 'yellow', or 'red'.
 
 • Write an if statement to test whether the alien’s color is green. If it is, print
@@ -171,7 +172,8 @@ a message that the player just earned 5 points.
 • Write one version of this program that passes the if test and another that
 fails. (The version that fails will have no output.)
 
-26. Alien Colors #2: Choose a color for an alien as you did in Exercise 25, and
+## Assignment 25
+Alien Colors #2: Choose a color for an alien as you did in Exercise 25, and
 write an if-else chain.
 
 • If the alien’s color is green, print a statement that the player just earned 5 points for shooting the alien.
@@ -181,7 +183,9 @@ write an if-else chain.
 • Write one version of this program that runs the if block and another that runs the else block.
 
 
-27. Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else chain.
+## Assignment 26
+ 
+ Alien Colors #3: Turn your if-else chain from Exercise 5-4 into an if-else chain.
 
 • If the alien is green, print a message that the player earned 5 points.
 
@@ -191,7 +195,8 @@ write an if-else chain.
 
 • Write three versions of this program, making sure each message is printed for the appropriate color alien.
 
-28. Stages of Life: Write an if-else chain that determines a person’s stage of life. Set a value for the variable age, and then:
+## Assignment 27
+Stages of Life: Write an if-else chain that determines a person’s stage of life. Set a value for the variable age, and then:
 
 • If the person is less than 2 years old, print a message that the person is a baby.
 
@@ -205,7 +210,8 @@ write an if-else chain.
 
 • If the person is age 65 or older, print a message that the person is an elder.
 
-29. Favorite Fruit: Make a array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array.
+## Assignment 28
+Favorite Fruit: Make a array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array.
 
 • Make a array of your three favorite fruits and call it favorite_fruits.
 
@@ -213,14 +219,16 @@ write an if-else chain.
 such as You really like bananas!
 
 
-30. Hello Admin: Make a array of five or more usernames, including the name 'admin'. Imagine you are writing code that will print a greeting to each user
+## Assignment 29
+Hello Admin: Make a array of five or more usernames, including the name 'admin'. Imagine you are writing code that will print a greeting to each user
 after they log in to a website. Loop through the array, and print a greeting to each user:
 
 • If the username is 'admin', print a special greeting, such as Hello admin, would you like to see a status report?
 
 • Otherwise, print a generic greeting, such as Hello Eric, thank you for logging in again.
 
-31. No Users: Add an if test to Exercise 28 to make sure the list of users is not empty.
+## Assignment 30
+No Users: Add an if test to Exercise 28 to make sure the list of users is not empty.
 
 • If the list is empty, print the message We need to find some users!
 
