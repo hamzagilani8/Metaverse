@@ -10,16 +10,16 @@ Famous Quote: Find a quote from a famous person you admire. Print the quote and 
 
 Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 
-## Assignment 4
+[Assignment 4](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%204)
 Famous Quote 2: Repeat Exercise 4, but this time store the famous person’s name in a variable called famous_person. Then compose your message and store it in a new variable called message. Print your message.
 
-## Assignment 5
+## Assignment 5(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%205)
 Stripping Names: Store a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, "\t" and "\n", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces.
 
-## Assignment 6
+## Assignment 6(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%206)
 Number Eight: Write addition, subtraction, multiplication, and division operations that each result in the number 8. Be sure to enclose your operations in print statements to see the results. 
 
-## Assignment 7
+## Assignment 7(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%207)
 You should create four lines that look like this:
 
 _____________________________________________
@@ -30,30 +30,30 @@ _____________________________________________
 
 Your output should simply be four lines with the number 8 appearing once on each line.
 
-## Assignment 8
+## Assignment 8(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%208)
 Favorite Number: Store your favorite number in a variable. Then, using that variable, create a message that reveals your favorite number. Print that message.
 
-## Assignment 9
+## Assignment 9(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%209)
 Adding Comments: Choose two of the programs you’ve written, and add at least one comment to each. If you don’t have anything specific to write
 because your programs are too simple at this point, just add your name and the current date at the top of each program file. Then write one sentence
 describing what the program does.
 
-## Assignment 10
+## Assignment 10(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2010)
 Names: Store the names of a few of your friends in a array called names. Print each person’s name by accessing each element in the list, one at a time.
 
-## Assignment 11
+## Assignment 11(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2011)
 Greetings: Start with the array you used in Exercise 10, but instead of just printing each person’s name, print a message to them. The text of each message
 should be the same, but each message should be personalized with the person’s name.
 
-## Assignment 12
+## Assignment 12(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2012)
 Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list
 to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
 
-## Assignment 13
+## Assignment 13(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2013)
 Guest List: If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to
 invite to dinner. Then use your list to print a message to each person, inviting them to dinner.
 
-## Assignment 14
+## Assignment 14(https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2014)
 Changing Guest List: You just heard that one of your guests can’t make the
 dinner, so you need to send out a new set of invitations. You’ll have to think of
 someone else to invite.
@@ -68,7 +68,7 @@ the name of the new person you are inviting.
 in your list.
 
 ## Assignment 15
-More Guests: You just found a bigger dinner table, so now more space is
+[More Guests: You just found a bigger dinner table, so now more space is
 available. Think of three more guests to invite to dinner.
 
 • Start with your program from Exercise 14. Add a print statement to the end of your program informing people that you found a
@@ -78,7 +78,7 @@ bigger dinner table.
 
 • Add one new guest to the middle of your array.
 • Use append() to add one new guest to the end of your list.
-• Print a new set of invitation messages, one for each person in your list.
+• Print a new set of invitation messages, one for each person in your list.](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2016)
 
 ## Assignment 16
 Shrinking Guest List: You just found out that your new dinner table won’t arrive in time for the dinner, and you have space for only two guests.
