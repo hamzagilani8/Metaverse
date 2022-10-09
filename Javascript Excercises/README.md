@@ -42,7 +42,7 @@ describing what the program does.
 Names: Store the names of a few of your friends in a array called names. Print each person’s name by accessing each element in the list, one at a time.
 
 ## Assignment 11
-Greetings: Start with the array you used in Exercise 11, but instead of just printing each person’s name, print a message to them. The text of each message
+Greetings: Start with the array you used in Exercise 10, but instead of just printing each person’s name, print a message to them. The text of each message
 should be the same, but each message should be personalized with the person’s name.
 
 ## Assignment 12
@@ -58,7 +58,7 @@ Changing Guest List: You just heard that one of your guests can’t make the
 dinner, so you need to send out a new set of invitations. You’ll have to think of
 someone else to invite.
 
-• Start with your program from Exercise 14. Add a print statement at the
+• Start with your program from Exercise 13. Add a print statement at the
 end of your program stating the name of the guest who can’t make it.
 
 • Modify your list, replacing the name of the guest who can’t make it with
