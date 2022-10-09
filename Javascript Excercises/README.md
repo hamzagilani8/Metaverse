@@ -67,8 +67,8 @@ the name of the new person you are inviting.
 • Print a second set of invitation messages, one for each person who is still
 in your list.
 
-## Assignment 15
-[More Guests: You just found a bigger dinner table, so now more space is
+## Assignment 15 [-->](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2015)
+More Guests: You just found a bigger dinner table, so now more space is
 available. Think of three more guests to invite to dinner.
 
 • Start with your program from Exercise 14. Add a print statement to the end of your program informing people that you found a
@@ -78,7 +78,7 @@ bigger dinner table.
 
 • Add one new guest to the middle of your array.
 • Use append() to add one new guest to the end of your list.
-• Print a new set of invitation messages, one for each person in your list.](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2016)
+• Print a new set of invitation messages, one for each person in your list.
 
 ## Assignment 16
 Shrinking Guest List: You just found out that your new dinner table won’t arrive in time for the dinner, and you have space for only two guests.
