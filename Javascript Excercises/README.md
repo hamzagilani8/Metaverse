@@ -1,11 +1,11 @@
-[## Assignment 1](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%201)
+[Assignment 1](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%201)
 Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric,
 would you like to learn some Python today?”
 
-## Assignment 2
+[Assignment 2](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%202)
 Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
 
-## Assignment 3
+[Assignment 3](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%203)
 Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks:
 
 Albert Einstein once said, “A person who never made a mistake never tried anything new.”
