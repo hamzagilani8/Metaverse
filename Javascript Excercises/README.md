@@ -175,7 +175,7 @@ a message that the player just earned 5 points.
 fails. (The version that fails will have no output.)
 
 ## [Assignment 25](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2025)
-Alien Colors #2: Choose a color for an alien as you did in Exercise 25, and
+Alien Colors #2: Choose a color for an alien as you did in Exercise 24, and
 write an if-else chain.
 
 • If the alien’s color is green, print a statement that the player just earned 5 points for shooting the alien.
