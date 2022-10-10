@@ -359,3 +359,5 @@ with the required information and two other name-value pairs, such as a
 color or an optional feature. 
 Print the Object that’s returned to make sure all the information was
 stored correctly.
+
+Assignments completed!
