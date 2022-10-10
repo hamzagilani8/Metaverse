@@ -230,7 +230,7 @@ after they log in to a website. Loop through the array, and print a greeting to 
 • Otherwise, print a generic greeting, such as Hello Eric, thank you for logging in again.
 
 ## [Assignment 30](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%2030)
-No Users: Add an if test to Exercise 28 to make sure the list of users is not empty.
+No Users: Add an if test to Exercise 29 to make sure the list of users is not empty.
 
 • If the list is empty, print the message We need to find some users!
 
