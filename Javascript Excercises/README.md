@@ -1,5 +1,3 @@
-### Note: VS Code and Node.js was installed before attempting these assignments
-
 ## [Assignment 1](https://github.com/hamzagilani8/Metaverse/tree/master/Javascript%20Excercises/Assignment%201)
 Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric,
 would you like to learn some Python today?”
